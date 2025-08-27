@@ -78,11 +78,11 @@ plot(t,USB);
 ```
 
 OUTPUT WAVEFORM
-<img width="704" height="178" alt="image" src="https://github.com/gaurav12360/SSB/blob/main/graph.ssbsc.png?raw=true" />
+<img width="704" height="178" alt="image" src="https://github.com/gaurav12360/SSB/blob/main/graph.ssbsc.png" />
 
 TABULATION
 
-
+<img width="704" height="178" alt="image" src="https://github.com/gaurav12360/SSB/blob/main/WhatsApp%20Image%202025-08-27%20at%2020.53.23_dd314b38.jpg" />
 
 
 
